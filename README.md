@@ -3,7 +3,7 @@
 
 This project was created as a 2nd Year Web Programming Project. The aim of the project was to create a fully functioning Blog that adhered to the specifications given by our Lecturer Niall McGuiness.
 
-A live version of this website can be found at lukeokane.com/Blog (live as of 26/01/2019)
+A live version of this website ~~can be found at lukeokane.com/Blog (live as of 26/01/2019)~~ is not currently maintained.
 
 --- 
 
@@ -40,9 +40,9 @@ Blog Voting
 Comment Voting
 - Like or Dislike
 
-Custom URL
+Inline URL styling
 - Add custom text to your URL.
-- e.g [url=www.google.com][click here to go to google]
+- e.g `[url=https://www.google.com][click here to go to google]` will render '[click here to go to google](www.google.com)'
 
 Blog Tags
 
